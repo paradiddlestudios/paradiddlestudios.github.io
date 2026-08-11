@@ -17,18 +17,11 @@ listed.
 | `/privacy/` | Privacy policy for Bajutsu Love — **the URL given to both stores** |
 | `/support/` | Support and contact — **the other URL both stores require** |
 
-## Before this goes live
+## Contact address
 
-**Replace every `SUPPORT_EMAIL` placeholder** — there are three, one each in
-`index.html`, `privacy/index.html`, and `support/index.html`:
-
-```bash
-grep -rn SUPPORT_EMAIL .
-```
-
-A dedicated address is worth it over a personal one: it is published on a
-public page, so it will be scraped, and it is the address the stores keep on
-file.
+`paradiddle.studios.2026@gmail.com`, in all three pages. It is the address
+given to both stores, so changing it means updating the store listings too —
+not just this repo.
 
 ## Deploying
 
