@@ -16,6 +16,8 @@ listed.
 | `/` | Studio landing page and game list |
 | `/privacy/` | Privacy policy for Bajutsu Love — **the URL given to both stores** |
 | `/support/` | Support and contact — **the other URL both stores require** |
+| `/monster-world/privacy/` | Privacy policy for Fun Felt World: Monsters — **its App Store privacy URL** (also linked in the game's grown-ups page) |
+| `/monster-world/support/` | Support for Fun Felt World: Monsters — **its App Store support URL** |
 
 ## Contact address
 
